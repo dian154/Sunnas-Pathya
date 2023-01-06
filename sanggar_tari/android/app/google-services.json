@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874979943164",
+    "project_id": "sanggartari-2eb4f",
+    "storage_bucket": "sanggartari-2eb4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874979943164:android:ae68b3e6b3e2595dba2d79",
+        "android_client_info": {
+          "package_name": "com.example.sanggar_tari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874979943164-sgiv09ov91qfg31nmpgaeukhm4degg5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbXA5jy0zEsJ0eqz70xl0YneqhGy1Ircs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874979943164-sgiv09ov91qfg31nmpgaeukhm4degg5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
